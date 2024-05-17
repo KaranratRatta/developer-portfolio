@@ -27,12 +27,12 @@ export const projectsData = [
     {
         id: 3,
         name: 'Alcohol Beverage Suppression Reporting System',
-        description: 'The Alcohol Beverage Suppression Reporting System (ABSRS) is an innovative digital platform designed to replace traditional paper-based processes with a streamlined, paperless system. This system enables efficient reporting and management of alcohol beverage suppression activities across various provinces, with data visibility tailored to the user\'s rank within the police force.',
+        description: `The Alcohol Beverage Suppression Reporting System (ABSRS) is an innovative digital platform designed to replace traditional paper-based processes with a streamlined, paperless system. This system enables efficient reporting and management of alcohol beverage suppression activities across various provinces, with data visibility tailored to the user's rank within the police force.`,
         tools: ['HTML', 'CSS', 'JavaScript', 'PHP', 'Ci4', 'MySQL', 'XAMPP', 'Bootstrap', 'JQuery', 'Git', 'Docker'],
         code: '',
         role: 'Full Stack Developer',
         demo: '',
-        image: realEstate,
+        image: realEstate
     }
 ];
 

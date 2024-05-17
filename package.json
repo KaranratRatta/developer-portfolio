@@ -1,8 +1,9 @@
 {
   "name": "developer-portfolio",
-  "description": "Portfolio of Abu Said",
+  "description": "Portfolio of Karanrat Rattanawichai",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://myusername.github.io/my-app",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -13,6 +14,7 @@
     "@emailjs/browser": "^4.3.1",
     "@next/third-parties": "^14.1.3",
     "axios": "^1.6.8",
+    "gh-pages": "^6.1.1",
     "lottie-react": "^2.4.0",
     "next": "^14.1.3",
     "react": "latest",
