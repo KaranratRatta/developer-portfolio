@@ -29,11 +29,11 @@ export default async function Home() {
     <>
       <HeroSection />
       <AboutSection />
-      <Experience />
       <Skills />
-      <Projects />
+      <Experience />
       <Education />
-      <Blog blogs={blogs} />
+      <Projects />
+      {/* <Blog blogs={blogs} /> */}
       <ContactSection />
     </>
   )
