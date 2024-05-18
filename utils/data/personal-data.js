@@ -1,6 +1,6 @@
 export const personalData = {
   name: "Karanrat Rattanawichai",
-  profile: '/profile.jpg',
+  profile: '${basePath}/profile.jpg',
   designation: "Software Developer",
   description: "My name is Karanrat Rattanawichai. A curious learner and excellent team player searching for a position as a Software Developer to utilise my technical competencies, knowledge of software development, software design, problem solving and excellent communication skills to grow as a Software Engineer.",
   email: 'karanrat.ra@proton.me',
