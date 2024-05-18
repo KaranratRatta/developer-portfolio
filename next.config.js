@@ -9,7 +9,10 @@ module.exports = {
   }
 }
 
+const isProd = process.env.NODE_ENV = 'production';
+
 const nextConfig = {
+  basePath: isProd ? "/developer-portfolio" : "",
   output: "export",  // <=== enables static exports
   distDir: "dist",
   images: {
