@@ -2,7 +2,7 @@ export const experiences = [
   {
     id: 1,
     title: 'Web Developer (Cooperative Education)',
-    company: "National Electronics and Computer Technology Centre (NECTEC)",
+    company: "National Electronics and Computer Technology Center (NECTEC)",
     duration: "June 2023 - Dec 2023"
     
   },
